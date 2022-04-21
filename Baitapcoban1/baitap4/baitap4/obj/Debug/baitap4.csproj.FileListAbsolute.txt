@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\bin\Debug\baitap4.exe.config
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\bin\Debug\baitap4.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\bin\Debug\baitap4.pdb
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\obj\Debug\baitap4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\obj\Debug\baitap4.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap4\baitap4\obj\Debug\baitap4.pdb

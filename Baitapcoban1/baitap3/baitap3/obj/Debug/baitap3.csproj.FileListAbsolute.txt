@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\bin\Debug\baitap3.exe.config
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\bin\Debug\baitap3.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\bin\Debug\baitap3.pdb
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\obj\Debug\baitap3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\obj\Debug\baitap3.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap3\baitap3\obj\Debug\baitap3.pdb

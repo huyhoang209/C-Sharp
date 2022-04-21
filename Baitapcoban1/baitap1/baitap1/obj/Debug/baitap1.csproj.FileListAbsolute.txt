@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\bin\Debug\baitap1.exe.config
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\bin\Debug\baitap1.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\bin\Debug\baitap1.pdb
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\obj\Debug\baitap1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\obj\Debug\baitap1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\obj\Debug\baitap1.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap1\baitap1\obj\Debug\baitap1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_tap_co_ban", "bai_tap_co_ban\bai_tap_co_ban.csproj", "{03505321-4E2B-45FE-AF5C-413095C455ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03505321-4E2B-45FE-AF5C-413095C455ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03505321-4E2B-45FE-AF5C-413095C455ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03505321-4E2B-45FE-AF5C-413095C455ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03505321-4E2B-45FE-AF5C-413095C455ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D322562A-1FB0-471B-B3C5-6ED85666FC8A}
+	EndGlobalSection
+EndGlobal

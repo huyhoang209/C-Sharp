@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\obj\Debug\baitap2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\bin\Debug\baitap2.exe.config
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\bin\Debug\baitap2.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\bin\Debug\baitap2.pdb
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\obj\Debug\baitap2.exe
+C:\Users\Admin\Desktop\những thứ cần note\baitap2\baitap2\obj\Debug\baitap2.pdb

@@ -1,0 +1,14 @@
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe.config
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.pdb
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.csprojAssemblyReference.cache
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.exe
+C:\Users\WIN-PRO\source\repos\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.pdb
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe.config
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.exe
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\bin\Debug\bai_tap_co_ban.pdb
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.exe
+C:\Users\Admin\Downloads\1911505310262_BuiVietThinh\bai_tap_co_ban\bai_tap_co_ban\obj\Debug\bai_tap_co_ban.pdb

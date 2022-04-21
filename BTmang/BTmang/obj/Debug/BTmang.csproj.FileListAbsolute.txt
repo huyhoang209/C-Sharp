@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BTmang\BTmang\bin\Debug\BTmang.exe.config
+C:\Users\Admin\source\repos\BTmang\BTmang\bin\Debug\BTmang.exe
+C:\Users\Admin\source\repos\BTmang\BTmang\bin\Debug\BTmang.pdb
+C:\Users\Admin\source\repos\BTmang\BTmang\obj\Debug\BTmang.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BTmang\BTmang\obj\Debug\BTmang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTmang\BTmang\obj\Debug\BTmang.exe
+C:\Users\Admin\source\repos\BTmang\BTmang\obj\Debug\BTmang.pdb
