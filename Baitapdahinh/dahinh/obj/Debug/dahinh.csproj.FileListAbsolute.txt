@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\dahinh\dahinh\bin\Debug\dahinh.exe.config
+C:\Users\Admin\source\repos\dahinh\dahinh\bin\Debug\dahinh.exe
+C:\Users\Admin\source\repos\dahinh\dahinh\bin\Debug\dahinh.pdb
+C:\Users\Admin\source\repos\dahinh\dahinh\obj\Debug\dahinh.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\dahinh\dahinh\obj\Debug\dahinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dahinh\dahinh\obj\Debug\dahinh.exe
+C:\Users\Admin\source\repos\dahinh\dahinh\obj\Debug\dahinh.pdb
