@@ -10,14 +10,14 @@ namespace diemdanh26_4bai2
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat();
-            cat.eat();
-            cat.makeSound();
-            cat.run();
-            Bird bird = new Bird();
-            bird.eat();
-            bird.makeSound();
-            bird.fly();
+            Cat cat272 = new Cat();
+            cat272.eat();
+            cat272.makeSound();
+            cat272.run();
+            Bird bird272 = new Bird();
+            bird272.eat();
+            bird272.makeSound();
+            bird272.fly();
             Console.ReadKey();
         }
     }
