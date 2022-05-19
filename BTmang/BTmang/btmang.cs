@@ -21,8 +21,8 @@ namespace BTmang
             Console.WriteLine("5: Bai63 Đếm số phần tử chia hết cho 4");
             Console.Write("----------------------\n");
             Console.Write("Chọn bài: \n");
-            double n262 = double.Parse(Console.ReadLine());
-            switch (n262)
+            double n272 = double.Parse(Console.ReadLine());
+            switch (n272)
             {
                 case 1:
                     Console.Clear();
@@ -64,10 +64,10 @@ namespace BTmang
         }
         static void Eratosthenes()
         {
-            int N = 100, n;
+            int N = 100, n72;
             Boolean[] check = new Boolean[N + 1];
             Console.WriteLine("nhập n: ");
-            n = int.Parse(Console.ReadLine());
+            n72 = int.Parse(Console.ReadLine());
 
             // Khởi tạo tất cả các số [2...N] đều là số nguyên tố
             for (int i = 2; i <= N; i++)
@@ -98,27 +98,27 @@ namespace BTmang
         }
         static void Calendar()
         {
-            int year;
-            string[] can = new string[] { "Canh", "Tan", "Nham", "Quy", "Giap", "At", "Binh", "Dinh", "Mau", "Ky" };
-            string[] chi = new string[] { "Than", "Dau", "Tuat", "Hoi", "Ti", "Suu", "Dan", "Meo", "Thin", "Ty", "Ngo", "Mui" };
+            int year72;
+            string[] can72 = new string[] { "Canh", "Tan", "Nham", "Quy", "Giap", "At", "Binh", "Dinh", "Mau", "Ky" };
+            string[] chi72 = new string[] { "Than", "Dau", "Tuat", "Hoi", "Ti", "Suu", "Dan", "Meo", "Thin", "Ty", "Ngo", "Mui" };
 
             Console.WriteLine("nhap nam: ");
-            year = int.Parse(Console.ReadLine());
+            year72 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Năm " + year.ToString() + " là năm " + can[year % 10] + " " + chi[year % 12]);
+            Console.WriteLine("Năm " + year72.ToString() + " là năm " + can72[year72 % 10] + " " + chi72[year72 % 12]);
             Console.ReadLine();
         }
        
         static void ArrayValues61()
         {
-            var rand = new Random();
+            var rand72 = new Random();
             int n, s = 0;
             Console.Write("Nhập số phần tử của mảng: ");
             int[] a = new int[201];
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
-                a[i] = rand.Next(-100, 100);
+                a[i] = rand72.Next(-100, 100);
                 Console.Write("{0,15:N0}", a[i]);
                 if (a[i] > 0)
                 {
@@ -131,7 +131,7 @@ namespace BTmang
         }
         static void ArrayValues62()
         {
-            var rand = new Random();
+            var rand72 = new Random();
             int n, sc = 0, sl = 0;
             string diff;
             Console.Write("Nhập số phần tử của mảng: ");
@@ -139,7 +139,7 @@ namespace BTmang
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
-                a[i] = rand.Next(10, 20);
+                a[i] = rand72.Next(10, 20);
                 Console.Write("{0,15:N0}", a[i]);
                 if (i % 2 == 0)
                 {
@@ -160,7 +160,7 @@ namespace BTmang
         }
         static void ArrayValues63()
         {
-            var rand = new Random();
+            var rand72 = new Random();
             int n, divisible = 0;
             Console.Write("Nhập số phần tử của mảng: ");
             int[] a = new int[201];
@@ -168,7 +168,7 @@ namespace BTmang
             n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
-                a[i] = rand.Next(-100, 100);
+                a[i] = rand72.Next(-100, 100);
                 Console.Write("{0,15:N0}", a[i]);
                 if (a[i] % 4 == 0 && a[i] % 10 == 6)
                 {

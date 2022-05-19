@@ -10,15 +10,15 @@ namespace baitap1
     {
         static void Main(string[] args)
         {
-            int num;
+            int num72;
             Console.Write("\n\n");
             Console.Write("Nhap mot so nguyen bat ky: ");
-            num = Convert.ToInt32(Console.ReadLine());
-            if (num >= 0)
+            num72 = Convert.ToInt32(Console.ReadLine());
+            if (num72 >= 0)
 
-                Console.WriteLine("Đây là so nguyên dương.\n", num);
+                Console.WriteLine("Đây là so nguyên dương.\n", num72);
             else
-                Console.WriteLine("Đây là so nguyên âm. \n", num);
+                Console.WriteLine("Đây là so nguyên âm. \n", num72);
 
             Console.ReadKey();
         }

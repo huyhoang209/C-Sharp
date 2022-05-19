@@ -10,18 +10,18 @@ namespace baitap3
     {
         static void Main(string[] args)
         {
-            float a, b, c;
+            float a72, b72, c72;
             Console.Write("Nhap 3 so\n\n");
 
             Console.Write("Nhap so a: ");
-            a = Convert.ToInt32(Console.ReadLine());
+            a72 = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("\nNhap so b: ");
-            b = Convert.ToInt32(Console.ReadLine());
+            b72 = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("\nNhap so c: ");
-            c = Convert.ToInt32(Console.ReadLine());
-            if (a + b > c && b + c > a && c + a > b)
+            c72 = Convert.ToInt32(Console.ReadLine());
+            if (a72 + b72 > c72 && b72 + c72 > a72 && c72 + a72 > b72)
                 Console.Write("Ba so nay la 3 canh cua 1 tam giac");
             else
                 Console.Write("\nBa so nay khong phai 3 canh cua 1 tam giac");

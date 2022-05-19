@@ -16,8 +16,8 @@ namespace Baikiemtra1
             Console.WriteLine("Bai 3: Đổi số thập phân thành số nhị phân từ một số thập phân");
             Console.WriteLine("Bai 4: In ra các thông tin của bản thân (họ tên, lớp, mã sv)");
 
-            double n262 = double.Parse(Console.ReadLine());
-            switch (n262)
+            double n72 = double.Parse(Console.ReadLine());
+            switch (n72)
             {
                 case 1:
                     Console.Clear();

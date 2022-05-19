@@ -12,10 +12,10 @@ namespace dahinh
 
         public DaGiac(int soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
-        public int SoCanh { get => soCanh; set => soCanh = value; }
+        public int SoCanh72 { get => soCanh; set => soCanh = value; }
 
         virtual public void Xuat()
         {
@@ -26,7 +26,7 @@ namespace dahinh
     {
         public HinhVuong(int soCanh) : base(soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
         override public void Xuat()
@@ -38,7 +38,7 @@ namespace dahinh
     {
         public TamGiac(int soCanh) : base(soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
         override public void Xuat()
@@ -50,7 +50,7 @@ namespace dahinh
     {
         public HinhChuNhat(int soCanh) : base(soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
         override public void Xuat()
@@ -62,7 +62,7 @@ namespace dahinh
     {
         public HinhTuGiac(int soCanh) : base(soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
         override public void Xuat()
@@ -74,7 +74,7 @@ namespace dahinh
     {
         public HinhBinhHanh(int soCanh) : base(soCanh)
         {
-            SoCanh = soCanh;
+            SoCanh72 = soCanh;
         }
 
         override public void Xuat()

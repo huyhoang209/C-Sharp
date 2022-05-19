@@ -22,8 +22,8 @@ namespace bai_tap_co_ban
             Console.WriteLine("Bai 25: Tính ước số chung lớn nhất và bội số chung nhỏ nhất của a, b");
             Console.WriteLine("Bai 31: Bang cuu chuong (Multiplication table");
 
-            double n262 = double.Parse(Console.ReadLine());
-            switch (n262)
+            double n272 = double.Parse(Console.ReadLine());
+            switch (n272)
             {
                 case 1:
                     Console.Clear();
@@ -84,30 +84,30 @@ namespace bai_tap_co_ban
         }
         static void vCau()
         {
-            double S, r, v;
-            float pi = 3.1415926535f;
+            double S72, r72, v72;
+            float pi72 = 3.1415926535f;
             Console.Write("Nhap dien tich S: ");
-            S = Convert.ToSingle(Console.ReadLine());
-            r = Math.Sqrt(S / (4 * pi));
-            Console.Write("\nBan kinh hinh cau la: " + r);
-            v = (4 * pi * (r * r * r) / 3);
-            Console.Write("\nThe tich hinh cau la: " + v);
+            S72 = Convert.ToSingle(Console.ReadLine());
+            r72 = Math.Sqrt(S72 / (4 * pi72));
+            Console.Write("\nBan kinh hinh cau la: " + r72);
+            v72 = (4 * pi72 * (r72 * r72 * r72) / 3);
+            Console.Write("\nThe tich hinh cau la: " + v72);
             
         }
         static void distance()
         {
             Console.Write("Ax: ");
-            double aX = double.Parse(Console.ReadLine());
+            double aX72 = double.Parse(Console.ReadLine());
             Console.Write("Ay: ");
-            double aY = double.Parse(Console.ReadLine());
+            double aY72 = double.Parse(Console.ReadLine());
             Console.Write("Bx: ");
-            double bX = double.Parse(Console.ReadLine());
+            double bX72 = double.Parse(Console.ReadLine());
             Console.Write("By: ");
-            double bY = double.Parse(Console.ReadLine());
+            double bY72 = double.Parse(Console.ReadLine());
 
-            double d;
-            d = Math.Sqrt((bX - aX) * (bX - aX) + (bY - aY) * (bY - aY));
-            Console.WriteLine("Khoang canh doan thang AB : " + Math.Round(d, 4));
+            double d72;
+            d72 = Math.Sqrt((bX72 - aX72) * (bX72 - aX72) + (bY72 - aY72) * (bY72 - aY72));
+            Console.WriteLine("Khoang canh doan thang AB : " + Math.Round(d72, 4));
 
         }
         static void sTriangle()
