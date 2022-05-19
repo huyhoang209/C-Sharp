@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\bin\Debug\QLcanbo.exe.config
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\bin\Debug\QLcanbo.exe
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\bin\Debug\QLcanbo.pdb
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\obj\Debug\QLcanbo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\obj\Debug\QLcanbo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\obj\Debug\QLcanbo.exe
+C:\Users\Admin\Desktop\C-Sharp\QLcanbo\QLcanbo\obj\Debug\QLcanbo.pdb
