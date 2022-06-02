@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\bin\Debug\QLhodan.exe.config
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\bin\Debug\QLhodan.exe
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\bin\Debug\QLhodan.pdb
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\obj\Debug\QLhodan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\obj\Debug\QLhodan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\obj\Debug\QLhodan.exe
+C:\Users\Admin\Desktop\C-Sharp\QLhodan\QLhodan\obj\Debug\QLhodan.pdb
